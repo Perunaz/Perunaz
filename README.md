@@ -7,6 +7,6 @@ First year student at Avans University.
 
 ## 👷 Current project(s):
 
-[![Repository](https://github-readme-stats.vercel.app/api/pin/?username=Perunaz&repo=HerokuMealAPI&layout=compact&theme=vision-friendly-dark)](https://github.com/Perunaz/HerokuMealAPI.git)
+[![Repository](https://github-readme-stats.vercel.app/api/pin/?username=Perunaz&repo=HappySingles&layout=compact&theme=vision-friendly-dark)](https://github.com/Perunaz/HappySingles.git)
 
 ---
