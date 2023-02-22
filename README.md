@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://cdn.dribbble.com/users/1925067/screenshots/3883105/media/e3f55465f420eb39a036e5f539f7408d.jpg" width="400" style"border-radius:10"/>
+  <img src="https://cdn.dribbble.com/users/1925067/screenshots/3883105/media/e3f55465f420eb39a036e5f539f7408d.jpg" width="400"/>
 </div>
 <div id="badges" align="center" >
   <a href="https://www.linkedin.com/in/caelan-van-eijnsbergen-03776323a/">
@@ -14,6 +14,7 @@
 Third year student at Avans University.
 
 ## 📈 Github Statistics:
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Perunaz&theme=dark&background=000000)<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Perunaz&layout=compact&theme=vision-friendly-dark)
 
 ## 👷 Current project(s):
