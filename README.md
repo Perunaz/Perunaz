@@ -18,5 +18,5 @@ Third year student at Avans University.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Perunaz&layout=compact&theme=vision-friendly-dark)
 
 ## 👷 Current project(s):
-
+<a href="https://github.com/Perunaz/soa3_bioscoop"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Perunaz&repo=soa3_bioscoop&theme=vision-friendly-dark" alt="soa3_bioscoop"></a>
 ---
