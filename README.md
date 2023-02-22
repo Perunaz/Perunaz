@@ -1,14 +1,15 @@
 <div id="header" align="center">
-  <img src="https://cdn.dribbble.com/users/1925067/screenshots/3883105/media/e3f55465f420eb39a036e5f539f7408d.jpg" width="500"/>
+  <img src="https://cdn.dribbble.com/users/1925067/screenshots/3883105/media/e3f55465f420eb39a036e5f539f7408d.jpg" width="400" style"border-radius:10"/>
 </div>
-<div id="badges">
+<div id="badges" align="center" >
   <a href="https://www.linkedin.com/in/caelan-van-eijnsbergen-03776323a/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    <br><br>
+    <br>
     <img src="https://komarev.com/ghpvc/?username=Perunaz&style=flat-square&color=blue" alt=""/>
   </a>
 </div>
-# Welcome to my GitHub account <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Welcome to my GitHub account
 
 Third year student at Avans University.
 
