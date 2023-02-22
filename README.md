@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://nl.pinterest.com/pin/14566398786557819/" width="100"/>
+  <img src="https://cdn.dribbble.com/users/1925067/screenshots/3883105/media/e3f55465f420eb39a036e5f539f7408d.jpg?compress=1&resize=800x600&vertical=top" width="100"/>
 </div>
 
 # 👋 Welcome to my GitHub account
