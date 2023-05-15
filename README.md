@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://github.com/Perunaz/Perunaz/blob/main/profilePicture.jpg" width="400" border-radius="25"/>
+  <img src="https://github.com/Perunaz/Perunaz/blob/main/profilePicture.jpg" width="400" style="border-radius:25px"/>
 </div>
 <div id="badges" align="center" >
   <a href="https://www.linkedin.com/in/caelan-van-eijnsbergen-03776323a/">
