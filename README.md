@@ -45,6 +45,7 @@
 
 ## 👷 Current project(s):
 <a href="https://github.com/Perunaz/soa3ProjectManagementSysteem"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Perunaz&repo=soa3ProjectManagementSysteem&theme=vision-friendly-dark" alt="soa3ProjectManagementSysteem"></a>
+<a href="https://github.com/Perunaz/portfolio"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Perunaz&repo=portfolio&theme=vision-friendly-dark" alt="Portfolio"></a>
 ---
 
 ## 📈 Github Statistics:
