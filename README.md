@@ -1,6 +1,3 @@
-<div id="header" align="center">
-  <img src="https://github.com/Perunaz/Perunaz/blob/main/profilePicture2.jpg" width="400"/>
-</div>
 <div id="badges" align="center" >
   <a href="https://www.linkedin.com/in/caelan-van-eijnsbergen-03776323a/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
