@@ -8,7 +8,7 @@
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Welcome to my GitHub account
 
-22 year old fourth year student at Avans University.
+23 year old junior software developer at Inbisco
 
 ## 🛠 Skills
 ### 📋 Languages
