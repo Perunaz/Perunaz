@@ -41,10 +41,9 @@
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
 ## 👷 Current project(s):
-<a href="https://github.com/Perunaz/soa3ProjectManagementSysteem"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Perunaz&repo=soa3ProjectManagementSysteem&theme=vision-friendly-dark" alt="soa3ProjectManagementSysteem"></a>
 <a href="https://github.com/Perunaz/portfolio"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Perunaz&repo=portfolio&theme=vision-friendly-dark" alt="Portfolio"></a>
 ---
 
 ## 📈 Github Statistics:
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Perunaz&theme=dark&background=000000)<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Perunaz&layout=compact&theme=vision-friendly-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Perunaz&hide=html&layout=compact&theme=vision-friendly-dark)
